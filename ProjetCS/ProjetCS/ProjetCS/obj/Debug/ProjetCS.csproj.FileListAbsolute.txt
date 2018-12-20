@@ -1,0 +1,7 @@
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\bin\Debug\ProjetCS.exe.config
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\bin\Debug\ProjetCS.exe
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\bin\Debug\ProjetCS.pdb
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\obj\Debug\ProjetCS.csprojAssemblyReference.cache
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\obj\Debug\ProjetCS.csproj.CoreCompileInputs.cache
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\obj\Debug\ProjetCS.exe
+C:\Users\maxence\source\repos\ProjetCS\ProjetCS\obj\Debug\ProjetCS.pdb
